@@ -1,0 +1,28 @@
+.main {
+  background-color: lightcoral;
+}
+
+.content {
+  background-color: lightsalmon;
+  width: 80%;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  color: black;
+  text-align: center;
+}
+
+h2, h3 {
+  text-align: center;
+}
+.id {
+margin-left: 5px;
+
+}
+.followers {
+  margin-left: 50px;
+}
+
+.rating {
+  margin-left: 50px;
+}
